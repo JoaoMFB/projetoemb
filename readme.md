@@ -185,6 +185,3 @@ Os testes demonstraram:
 
 - Lucas Sales Duarte
 - João Marcelo Battaglini
-
-  git config --global user.email "lucas.sales@usp.br"
-  git config --global user.name "LucasDuarte026"
